@@ -1,9 +1,9 @@
 # Process Writeup
 
-## Name: 
-## Course: 
-## Period: 
-## Concept: 
+## Name: Mr. Mueller
+## Course: SEP10 (web design)
+## Period: 1
+## Concept: HTML basics
 
 ### Section
 
