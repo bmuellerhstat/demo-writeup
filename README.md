@@ -5,9 +5,11 @@
 ## Period: 1
 ## Concept: HTML basics
 
-### Section
+### Context
 
-Text
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin imperdiet tellus rutrum elit tincidunt gravida. Nunc rhoncus sit amet odio a congue. Nullam ultrices sodales ullamcorper. Ut pellentesque eget augue et fringilla. In sit amet porttitor massa. Duis sed justo sed diam imperdiet malesuada. Mauris euismod in orci ac dapibus. Donec pharetra nec dui vitae vehicula. Sed ut varius felis. Vivamus auctor risus fermentum tristique dictum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris non pretium odio, nec condimentum nulla.
+
+
 
 Text
 
